@@ -24,5 +24,5 @@ if __name__ == "__main__":
     "farrahkhan@cityofirvine.org",
     "mikecarroll@cityofirvine.org",
     "irvinecitycouncil@cityofirvine.org"]
-    mail = mailto(emails, "Don't waste this opportunity!", body)
+    mail = mailto(emails, "Rethink the Five Point Development at Irvine Station", body)
     print(mail)
