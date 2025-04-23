@@ -573,6 +573,16 @@ input, select, textarea {
 			font-size: 1.5em;
 		}
 
+		h3 {
+			font-size: 0.85em;
+		}
+
+	}
+
+	h3 {
+		font-size: 1.5em;
+		line-height: 0.8em;
+		letter-spacing: -0.05em;
 	}
 
 	strong, b {
