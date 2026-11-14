@@ -2278,6 +2278,13 @@ input, select, textarea {
 		background-position: top left, center center;
 	}
 
+	.horz-card-element {
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+		background-repeat: no-repeat;
+	}
+
 	#youssef {
 		background: url("images/overlay.png"), url("../../images/youssef.png");
 		background-size: 256px 256px, cover;
@@ -2313,18 +2320,24 @@ input, select, textarea {
 		background-position: top left, center center;
 	}
 
+	#yale {
+		background-image: url("images/overlay.png"), url("../../images/initiatives/yale-avenue.jpg");
+	}
+
+	#campus {
+		background-image: url("images/overlay.png"), url("../../images/initiatives/campus-dr.jpg");
+	}
+
 	#iConnect {
-		background: url("images/overlay.png"), url("../../images/bus2.png");
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background-image: url("images/overlay.png"), url("../../images/initiatives/iconnect-full.webp");
 	}
 
 	#ocmf {
-		background: url("images/overlay.png"), url("../../images/metrolink.png");
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background-image: url("images/overlay.png"), url("../../images/initiatives/metrolink.png");
+	}
+
+	#crescent {
+		background-image: url("images/overlay.png"), url("../../images/initiatives/crescent-cropped.png");
 	}
 
 	#walnut_line {
