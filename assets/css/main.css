@@ -2272,6 +2272,13 @@ input, select, textarea {
 /* Two */
 
 	#two {
+		background: url("images/overlay.png"), url("../../images/home/vision.jpg");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
+	#three {
 		background: url("images/overlay.png"), url("../../images/bike3.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
@@ -2286,10 +2293,7 @@ input, select, textarea {
 	}
 
 	#youssef {
-		background: url("images/overlay.png"), url("../../images/youssef.png");
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background-image: url("images/overlay.png"), url("../../images/youssef.png");
 	}
 
 	#dane {
