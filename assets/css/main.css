@@ -2293,7 +2293,23 @@ input, select, textarea {
 	}
 
 	#youssef {
-		background-image: url("images/overlay.png"), url("../../images/youssef.png");
+		background-image: url("images/overlay.png"), url("../../images/board/youssef.png");
+	}
+
+	#thi {
+		background-image: url("images/overlay.png"), url("../../images/board/thi-horz.png");
+	}
+
+	#james {
+		background-image: url("images/overlay.png"), url("../../images/board/james-bus.png");
+	}
+
+	#ankur {
+		background-image: url("images/overlay.png"), url("../../images/board/ankur.webp");
+	}
+
+	#alex {
+		background-image: url("images/overlay.png"), url("../../images/board/alex-thomas.webp");
 	}
 
 	#dane {
